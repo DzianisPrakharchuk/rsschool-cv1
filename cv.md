@@ -8,10 +8,10 @@
 ### About Myself:
 For a long period of time I worked in the field of mechanical engineering in the field of hydraulics, including being a deputy head of a department in a manufacturing company.I have good communication skills, I work well in a team, I want to learn and develop new skills. Now I am studying Java and Python, this direction is interesting for me as it opens up new possibilities.
 ### Skills:
-- Python(basic)
-- Java(basic)
 - HTML(basic)
 - CSS(basic)
+- Python(basic)
+- Java(basic)
 ### Code examples
 ```
 function multiply(a, b){
